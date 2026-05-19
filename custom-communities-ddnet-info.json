@@ -6,7 +6,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "1d15b6b84266b729040125f627f90299e51110190fe6cfdaf587c666e2e9c1f6",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/away.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/away.png",
 				"servers": [
 					{
 						"name": "BRA",
@@ -54,7 +54,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "dcfc5f4becba19da7b134cbf3954d745529f7ad9c36afc95cd462cf3acf16651",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/ddfightnetwork.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/ddfightnetwork.png",
 				"servers": [
 					{
 						"name": "EUR",
@@ -102,7 +102,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "30143a46c643bcc2b02a7e1aaa286878d682718f622a41fbe02d2b55a27eb406",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/souly.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/souly.png",
 				"servers": [
 					{
 						"name": "EUR",
@@ -134,7 +134,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "048a5ea92522cd6c0becb9cda3efaeca9c8ac2d53821416c159eff5543867d89",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/teeunion.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/teeunion.png",
 				"servers": [
 					{
 						"name": "RUS",
@@ -167,7 +167,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "2b3425462e768c9d3794de2b61e1d2bcebc351ac33fc361bdc95827f28bf3801",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/legit.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/legit.png",
 				"servers": [
 					{
 						"name": "FRA",
@@ -231,7 +231,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "5d2b8bc404a364457453e434e7789b9e76d4ac9bda7e689947c2c89768fe5dfb",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/foxnet.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/foxnet.png",
 				"servers": [
 					{
 						"name": "EUR",
@@ -277,7 +277,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "299520ef20a309f61bf07a77a60fbb8907a04ba89d1f7b9680553edc689d3f3d",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/cazar.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/cazar.png",
 				"servers": [
 					{
 						"name": "EUR",
@@ -337,7 +337,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "cd8879290cb59da34ddae8da5997d9f25c83862074f9b7eca7a9f6b0a9ce9927",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/pointerslabs.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/pointerslabs.png",
 				"servers": [
 					{
 						"name": "EUR",
@@ -371,7 +371,7 @@
 			"has_finishes": false,
 			"icon": {
 				"sha256": "0aa2aa9f6cb2a7912876a664c6999e386906e89064330d68df69db6bd7fea937",
-				"url": "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/ego.png",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/ego.png",
 				"servers": [
 					{
 						"name": "EUR",

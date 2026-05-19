@@ -196,7 +196,7 @@ async function verifyLocalData() {
 				CIError(`Invalid URL: ${contactURL}`);
 			}
 		}
-		const PREFIX = "https://raw.githubusercontent.com/SollyBunny/ddnet-custom-communities/refs/heads/main/icons/";
+		const PREFIX = "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/";
 		if (iconURL.startsWith(PREFIX)) {
 			const iconName = iconURL.slice(PREFIX.length);
 			if (iconName.toLowerCase() !== iconName)
