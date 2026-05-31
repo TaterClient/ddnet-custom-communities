@@ -195,7 +195,7 @@
 						}
 					},
 					{
-						"name": "MSK",
+						"name": "RUS",
 						"flagId": 643,
 						"servers": {
 							"Gores": [
@@ -220,7 +220,7 @@
 						}
 					},
 					{
-						"name": "NSK",
+						"name": "RUS",
 						"flagId": 643,
 						"servers": {
 							"Gores": [

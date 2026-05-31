@@ -47,4 +47,5 @@ Do note that these rules can be bent both ways and are subject to mine and other
 5. Create a PR
 
 Make sure to run `node ./scripts/format.mjs`
+Also run `node ./scripts/verify-flagids.mjs` to validate `name` and `flagId` country/region mappings.
 
