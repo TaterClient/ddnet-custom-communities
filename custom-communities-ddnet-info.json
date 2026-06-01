@@ -170,8 +170,8 @@
 				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/legit.png",
 				"servers": [
 					{
-						"name": "FRA",
-						"flagId": 250,
+						"name": "GER",
+						"flagId": 276,
 						"servers": {
 							"Gores": [
 								"152.89.254.67:8300",
@@ -195,7 +195,7 @@
 						}
 					},
 					{
-						"name": "MSK",
+						"name": "RUS",
 						"flagId": 643,
 						"servers": {
 							"Gores": [
@@ -220,7 +220,7 @@
 						}
 					},
 					{
-						"name": "NSK",
+						"name": "RUS",
 						"flagId": 643,
 						"servers": {
 							"Gores": [
