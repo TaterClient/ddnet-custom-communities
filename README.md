@@ -26,7 +26,7 @@ Sorted by order of addition. Maintainers are responsible for updating the data h
 * [Pointer's Labs](https://matrix.to/#/#pointerslabs-space:matrix.org) maintained by [@Pointer31](https://github.com/pointer31)
 * [Eternal Gores](https://discord.gg/vm6vGgqRvr) maintained by [@snezhnyyy](https://github.com/snezhnyyy)
 * [MMOTee](https://discord.gg/ZwdPXkDXx9) maintained by [@Goodb1](https://github.com/Goodb1)
-* [Axstella](https://discord.gg/CvurZbQ2qf) maintained by [@Goodb1](https://github.com/Goodb1)
+* [Axstella](https://axstella.com) maintained by [@Goodb1](https://github.com/Goodb1) and [@sqwinixxx](https://github.com/sqwinixxx)
   
 ## Requirements
 
