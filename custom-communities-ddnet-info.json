@@ -429,8 +429,8 @@
 			"name": "Eternal Gores",
 			"has_finishes": false,
 			"icon": {
-				"sha256": "b44052f1640522bc37431bc977798ecd8fa05541a702cf0974b5cc27f18c974a",
-				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/eternalgores.png",
+				"sha256": "527b530551972df9a0a4021333cb4aa578f13190f64d4ef7892ff653d10b22f6",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/egores.png",
 				"servers": [
 					{
 						"name": "EUR",
