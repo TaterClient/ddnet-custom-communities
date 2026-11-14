@@ -523,6 +523,42 @@
 			]
 		},
 		{
+			"id": "infinet",
+			"name": "InfiNet",
+			"has_finishes": false,
+			"icon": {
+				"sha256": "59915ea5e49f1acfe760820ed4a0f4eff3158e3eb0b7f56b94d51f60841be6df",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/infinet.png",
+				"servers": [
+					{
+						"name": "RUS",
+						"flagId": 643,
+						"servers": {
+							"KoG": [
+								"82.148.243.178:24543",
+								"82.148.243.178:26234",
+								"82.148.243.178:29484"
+							],
+							"Train": [
+								"82.148.243.178:35452"
+							],
+							"Block": [
+								"82.148.243.178:25555"
+							],
+							"FNG": [
+								"82.148.243.178:34265",
+								"82.148.243.178:55555"
+							]
+						}
+					}
+				]
+			},
+			"contact_urls": [
+				"https://t.me/InfiNet_official",
+				"https://infinet-official.github.io/InfiNet/"
+			]
+		},
+		{
 			"id": "legit",
 			"name": "Legit Network",
 			"has_finishes": false,
