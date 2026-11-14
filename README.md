@@ -28,6 +28,7 @@ Sorted by order of addition. Maintainers are responsible for updating the data h
 * [MMOTee](https://discord.gg/ZwdPXkDXx9) maintained by [@Goodb1](https://github.com/Goodb1)
 * [Axstella](https://axstella.com) maintained by [@Goodb1](https://github.com/Goodb1) and [@sqwinixxx](https://github.com/sqwinixxx)
 * [VerseBlock](https://verseblock.fun) maintained by [@godlyy13](https://github.com/godlyy13)
+* [InfiNet](https://infinet-official.github.io/InfiNet/) maintained by [@infinet-official](https://github.com/infinet-official)
   
 ## Requirements
 
