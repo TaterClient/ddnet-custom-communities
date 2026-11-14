@@ -1,0 +1,30 @@
+{
+	"name": "InfiNet",
+	"contactUrls": [
+		"https://t.me/InfiNet_official",
+		"https://infinet-official.github.io/InfiNet/"
+	],
+	"regions": [
+		{
+			"name": "RUS",
+			"flagId": 643,
+			"servers": {
+				"KoG": [
+					"82.148.243.178:24543",
+					"82.148.243.178:26234",
+					"82.148.243.178:29484"
+				],
+				"Train": [
+					"82.148.243.178:35452"
+				],
+				"Block": [
+					"82.148.243.178:25555"
+				],
+				"FNG": [
+					"82.148.243.178:34265",
+					"82.148.243.178:55555"
+				]
+			}
+		}
+	]
+}
