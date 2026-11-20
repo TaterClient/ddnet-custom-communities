@@ -2,7 +2,7 @@
 	"communities": [
 		{
 			"id": "away",
-			"name": "Away (PR workflow test 2)",
+			"name": "Away (PR workflow test 3)",
 			"has_finishes": false,
 			"icon": {
 				"sha256": "1d15b6b84266b729040125f627f90299e51110190fe6cfdaf587c666e2e9c1f6",
