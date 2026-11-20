@@ -30,7 +30,7 @@ jobs:
                   `\`${infoFile}\` must not be edited directly in a pull request.`,
                   "It is generated automatically from the files in `data/`.",
                   "Please make your changes to `data/{id}.json` instead.",
-                ].join(" "),
+                ].join("\n"),
               });
               core.setFailed(`${infoFile} was modified. Make changes to data/{id}.json instead.`);
             }
