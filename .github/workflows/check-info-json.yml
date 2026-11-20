@@ -1,0 +1,36 @@
+name: Check info JSON
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-info-json:
+    runs-on: ubuntu-slim
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Reject changes to generated info file
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const infoFile = "custom-communities-ddnet-info.json";
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+            });
+
+            if (files.some((file) => file.filename === infoFile)) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: [
+                  `\`${infoFile}\` must not be edited directly in a pull request.`,
+                  "It is generated automatically from the files in `data/`.",
+                  "Please make your changes to `data/{id}.json` instead.",
+                ].join(" "),
+              });
+              core.setFailed(`${infoFile} was modified. Make changes to data/{id}.json instead.`);
+            }
