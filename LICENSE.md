@@ -4,7 +4,7 @@ All non media work (code, JSON data, and documentation) are under [UNLICENSE](LI
 
 All icons except below exceptions are under [CC-BY-NC-ND](LICENSES/CC-BY-NC-ND%204.0)
 * [Souly stuff](https://github.com/TaterClient/ddnet-custom-communities/blob/main/icons/souly.png) under [CC-BY-SA](LICENSES/CC-BY-SA%204.0)
-* [Away](https://github.com/TaterClient/ddnet-custom-communities/blob/main/icons/away.png) and [cazar](https://github.com/TaterClient/ddnet-custom-communities/blob/main/icons/cazar.png) are not yet licensed, use with discretion
+* [Away](https://github.com/TaterClient/ddnet-custom-communities/blob/main/icons/away.png) is not yet licensed, use with discretion
 
 ## What does this mean
 
