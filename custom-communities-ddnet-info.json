@@ -755,6 +755,39 @@
 			]
 		},
 		{
+			"id": "teespace",
+			"name": "TeeSpace",
+			"has_finishes": false,
+			"icon": {
+				"sha256": "fd5a2bf6a3f704f0fbb969ad8967d0980c8efd327f6a9afd1941e410d253b647",
+				"url": "https://raw.githubusercontent.com/TaterClient/ddnet-custom-communities/refs/heads/main/icons/teespace.png",
+				"servers": [
+					{
+						"name": "RUS",
+						"flagId": 643,
+						"servers": {
+							"Block": [
+								"37.230.137.169:8304"
+							],
+							"FNG": [
+								"37.230.137.169:8305",
+								"37.230.137.169:8306",
+								"37.230.137.169:8311",
+								"37.230.137.169:8312"
+							],
+							"TeeWare": [
+								"37.230.137.169:8308"
+							]
+						}
+					}
+				]
+			},
+			"contact_urls": [
+				"https://teespace.ru",
+				"https://discord.gg/HD6hc7cTGP"
+			]
+		},
+		{
 			"id": "teeunion",
 			"name": "TeeUnion",
 			"has_finishes": false,
